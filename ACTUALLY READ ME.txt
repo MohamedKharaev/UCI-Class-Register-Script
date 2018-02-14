@@ -1,0 +1,22 @@
+UCI CLASS BOT
+
+This is just a list of things users need to know
+
+1) Make sure to leave all 3 files in this folder and to run the bot from within it.
+
+2) After submitting the form, keep your laptop open AND DON'T LET IT SLEEP THIS IS VERY
+   IMPORTANT. Turn off your laptop's sleep timer if you want to leave it on overnight. 
+
+3) This bot will only run if you have Google Chrome installed.
+
+4) The registration date field must follow the format in the example (MMM DD YYYY HH:MM).
+
+5) For every class in the main section that doesn't get added, a class in the alternate
+   classes section will get added. The bot will cycle through them until enough are 
+   added so have alternates.
+
+6) If you want a certain class but are worried about the discussion being filled up, 
+   add the same class along with a different discussion to the alternative classes section.
+
+7) Double check your password is correct. If you get it wrong, theres nothing the bot can
+   do about it. 
